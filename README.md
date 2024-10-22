@@ -65,3 +65,5 @@ Gym-Bro Diet Assistant is a Streamlit-based chatbot application designed to help
 + Start the app, embed the documents using the "Document Embedding" button.
 + Ask questions via the input field and receive context-aware responses based on the embedded documents.
 
+## User Interface
+![alt text](user_interface.PNG)
